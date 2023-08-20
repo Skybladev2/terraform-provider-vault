@@ -42,6 +42,8 @@ $ cd $GOPATH/src/github.com/hashicorp/terraform-provider-vault
 $ make build
 ```
 
+This will build the provider and put the provider binary in the `$GOPATH/bin` directory.
+
 Developing the Provider
 ---------------------------
 
